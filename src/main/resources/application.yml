@@ -1,0 +1,5 @@
+
+server:
+  port: 8989
+  servlet:
+    context-path: /spring_git
